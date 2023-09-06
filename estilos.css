@@ -1,0 +1,23 @@
+body { 
+    font: 12pt Verdana; 
+    background-color: rgb(150, 138, 111);
+}
+button {
+     font-size: 12pt;  
+     background-color: rgb(131, 107, 86);
+     padding: 14px 40px;
+     font-family: monospace;
+     border-radius: 12px;
+     border: 4px solid #a17125; 
+     
+    }
+    
+
+    
+      .header{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-style: normal ;
+        font-size: 32px;
+       text-align: center;
+       
+      }
